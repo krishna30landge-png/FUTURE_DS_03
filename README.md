@@ -15,9 +15,10 @@ This project focuses on analyzing real-world marketing data to extract meaningfu
 * *DAX*: (Measures like Total ROI, Avg CTR)
 
 ## 📂 Dataset
-* *Name: Marketing Campaign Performance Data
-* *Key Attributes: Campaign ID, Date, Marketing Channel, Region, Product Category, Impressions, Clicks, Spend, and Revenue.
-* *Derived Metrics: Click-Through Rate (CTR), Conversion Rate, and Return on Investment (ROI).
+*  *Name: Marketing Campaign Performance Data
+*  *Key Attributes: Campaign ID, Date, Marketing Channel, Region, Product Category, Impressions, Clicks, Spend, and Revenue.
+*  *Derived Metrics: Click-Through Rate (CTR), Conversion Rate, and Return on Investment (ROI).
+
 ## 📊 Dashboard Components
 
 ### 🔑 KPI Cards (Business Snapshot)
