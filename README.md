@@ -26,9 +26,15 @@ This project focuses on analyzing real-world marketing data to extract meaningfu
 * 💵 *Total Spend:* 261.17K
 * 🎯 *Avg CTR:* 13.86%
 
+### 📉 Conversion Funnel Analysis
+The dashboard features a Multi-Stage Funnel to track user behavior and identify where potential customers drop off.
+
+* *Awareness:* 1.2M Impressions
+* *Interest:* 56K Clicks
+* *Conversion:* 2,531 Successful Actions
+
 ### 📈 Visuals & Analysis
 * *Revenue by Region:* Donut chart highlighting that the East region leads at 30%.
-* *Customer Journey:* Funnel analysis showing a 0.4% final conversion rate.
 * *Spend vs Revenue:* Stacked bar charts comparing channel efficiency.
 
 ## 💡 Key Insights
